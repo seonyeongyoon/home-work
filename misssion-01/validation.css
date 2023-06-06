@@ -1,0 +1,20 @@
+.validation {}
+.validation li {
+  list-style: none;
+  width: 250px;
+  background-color: #ccc;
+  border-radius: 34px;
+}
+.validation li + li {
+  margin-top: 12px  ;
+}
+.validation li a {
+  display: block;
+  width: 100%;
+  padding: 8px 36px;
+  background: url(./images/validation_icon\ 2.png) no-repeat 16px center / 16px 17px;
+  font-family: 'Pretendard';
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.5;
+}
