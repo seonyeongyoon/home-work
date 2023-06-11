@@ -1,0 +1,92 @@
+.login {
+  width: 250px;
+  background: linear-gradient(90deg, #ED552F 0%, #E8852E 100%);
+  box-shadow: 5px 5px 0px #AAAAAA;
+  border-radius: 5px;
+  padding: 12px;
+}
+
+.login .title {
+  font-size: 15px;
+  line-height: 1.5;
+  color: #FF0;
+  margin-bottom: 0.5rem;
+}
+
+.login .login__box {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 0.5rem;
+}
+
+.login .login__top {
+  position: relative;
+  padding-bottom: 0.5rem;
+}
+
+.login .login__top .formInput {
+  width: 9.125rem;
+  display: flow-root;
+  font-size: 0;
+}
+
+.login .login__top .formInput + .formInput {
+  margin-top: 0.25rem;
+}
+
+.login .login__top .formInput > * {
+  float: left;
+}
+
+.login .login__top .formInput label {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.login .login__top .formInput input {
+  width: 5.625rem;
+  height: 1.5rem;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  padding: 0px 0px 0px 8px;
+  float: right;
+  /* display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; */
+}
+
+.login .login__btn {
+  width: 50px;
+  height: 53px;
+  color: #fff;
+  border: 0;
+  border-radius: 5px;
+  background: #ED552F;
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+}
+
+.login .login__bottom {
+  padding-top: 0.5rem;
+  border-top: 1px solid #ccc;
+}
+
+.login .login__bottom ul {
+  display: flow-root;
+}
+
+.login .login__bottom ul li:first-child {
+  float: left;
+}
+
+.login .login__bottom ul li:last-child {
+  float: right;
+}
+
+.login .login__bottom ul li a {
+  font-size: 13px;
+  line-height: 1.5;
+}
