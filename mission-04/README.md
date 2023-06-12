@@ -22,5 +22,5 @@
   }
   제목, 이미지, 본문 영역에 위와 같이 그리드를 적용하여 시안에 맞게 배치한다.
   
-![화면 캡처 2023-06-12 223110](https://github.com/seonyeongyoon/home-work/assets/66238849/1410d324-b59c-44fc-a922-21b3fcbfa183)
+![화면 캡처 2023-06-12 223110](https://github.com/seonyeongyoon/home-work/assets/66238849/1410d324-b59c-44fc-a922-21b3fcbfa183) <br/>
 ![image](https://github.com/seonyeongyoon/home-work/assets/66238849/9127e98d-273a-4ddb-8323-2e1c28bd3c79)
