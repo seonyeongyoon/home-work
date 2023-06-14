@@ -25,5 +25,5 @@
         background-position: right 3px;<br>
       }<br>
 
-<p>*완성본*</p>
+**완성본**<br>
 ![image](https://github.com/seonyeongyoon/home-work/assets/66238849/b9b6dc5e-2010-4f2e-9bba-045cde7b3f85)
