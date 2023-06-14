@@ -11,18 +11,19 @@
     background-position: right 3px;<br>
   }<br>
 
-  .favorite__list li:nth-child(2) {<br>
-    background-position: right -33.666px;<br>
-  }<br>
+      .favorite__list li:nth-child(2) {<br>
+        background-position: right -33.666px;<br>
+      }<br>
 
 
-  .favorite__list li:nth-child(3) {<br>
-    background-position: right -15.333px;<br>
-  }<br>
+      .favorite__list li:nth-child(3) {<br>
+        background-position: right -15.333px;<br>
+      }<br>
 
 
-  .favorite__list li:nth-child(4) {<br>
-    background-position: right 3px;<br>
-  }<br>
+      .favorite__list li:nth-child(4) {<br>
+        background-position: right 3px;<br>
+      }<br>
 
+*완성본*
 ![image](https://github.com/seonyeongyoon/home-work/assets/66238849/b9b6dc5e-2010-4f2e-9bba-045cde7b3f85)
